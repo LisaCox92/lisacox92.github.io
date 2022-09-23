@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	
+	<title>DESN340_P1_P1_CoxLisa</title>
+
+	<!-- Background Color & Styles Below -->
+
+	<body style="background-color:white;">
+		
+		<!-- Main Web Content Below -->
+
+		<section>
+			<br>
+			<br>
+
+			<h1 style="text-align:center; color:darkgoldenrod;">An Old Cat’s Dying Soliloquy</h1>
+			
+			<br>
+
+			<h2 style="text-align:center; color:darkgoldenrod;"> 
+			<i>"Years saw me still Acasto’s mansion <sub>grace,</sub><br>
+			The gentlest, fondest of the tabby <sub>race;</sub><br>
+			Before him frisking through the garden <sub>glade,</sub><br>
+			Or at his feet in quiet slumber <sub>laid;</sub><br>
+			Praised for my glossy back of zebra <sub>streak,</sub><br>
+			And wreaths of jet encircling round my <sub>neck;</sub><br>
+			Soft paws that ne’er extend the clawing <sub>nail,</sub><br>
+			The snowy whisker and the sinuous <sub>tail…"</sub></i></h2><br>
+
+			<h1 style="text-align:center; color:darkgoldenrod;">— Anna Seward</h1>
+		
+		<!-- Photos Below-->
+
+		<center><img src="Cutecat.jpg" alt="CatDrawing" width="500" height="600"></center>
+		
+		</section>
+	</body>
+</head>
